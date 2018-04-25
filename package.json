@@ -1,0 +1,54 @@
+{
+  "_from": "rn-popup@^1.0.4",
+  "_id": "rn-popup@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha1-cB2nX8i+pEcJXwTZEGhl9I8RsNY=",
+  "_location": "/rn-popup",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "rn-popup@^1.0.4",
+    "name": "rn-popup",
+    "escapedName": "rn-popup",
+    "rawSpec": "^1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/rn-popup/-/rn-popup-1.0.4.tgz",
+  "_shasum": "701da75fc8bea447095f04d9106865f48f11b0d6",
+  "_spec": "rn-popup@^1.0.4",
+  "_where": "/Users/MacBookpro15/Projects/PredictorApp",
+  "author": {
+    "name": "Chad Sahlhoff"
+  },
+  "bugs": {
+    "url": "https://github.com/sahlhoff/react-native-popup/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React Native Popup",
+  "homepage": "https://github.com/sahlhoff/react-native-popup#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "ios",
+    "animation",
+    "modal"
+  ],
+  "license": "ISC",
+  "main": "popup.js",
+  "name": "rn-popup",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahlhoff/react-native-popup.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
